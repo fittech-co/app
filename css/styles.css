@@ -1,0 +1,133 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+
+.imageBack{
+
+}
+
+
+#title{
+
+
+  font-weight: 700;
+
+
+
+
+
+
+}
+
+.BrandLogo{
+  font-size: 2.5rem;
+  font-family: 'ubantu', sans-serif;
+}
+
+
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size:3.5rem;
+  font-weight: 600;}
+
+
+.navbar{
+  padding-bottom:4.5rem;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.container-fluid{
+padding: 3% 15%;
+
+}
+
+
+.hidden{
+  overflow: hidden;
+}
+
+  .rotate{
+
+  width: 100%;
+  }
+
+  #features{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FEFEFE;
+
+  }
+
+
+h1{
+color: #30475e;
+
+}
+  h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  p{
+    color: #8f8f8f;
+  }
+
+.fa-4x{
+  color: #30475e;
+}
+
+.fa-4x:hover{
+  color: #8f8f8f;
+}
+
+.bottom-container{
+background-color: #30475e;
+padding: 10px;
+
+}
+
+.footer-link{
+
+  display: inline-block;
+  width:100px;
+  text-decoration: none;
+  color: black;
+}
+
+.footer-link:hover{
+
+  color:  #8f8f8f;
+
+}
+
+.copyrights{
+
+color: #8f8f8f;
+font-size: 0.75rem;
+}
+
+.lowerpart{
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+.launch{
+  width:100%;}
+
+  .team{
+    margin: auto;
+
+  }
+  .team-icon{
+    width:100px;
+  }
